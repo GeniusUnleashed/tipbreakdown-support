@@ -2,7 +2,7 @@
 
 **Last updated: 27 August 2026**
 
-Tip Out is a tip-out calculator for bartenders, published by Michael
+Tip Out is a tip-out calculator for service workers, published by Michael
 Sullivan.
 
 ## The short version

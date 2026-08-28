@@ -1,7 +1,7 @@
-# Tip Out
+# Tip Breakdown
 
-A tip-out calculator for bartenders. Tip Out runs entirely on your
-device — no accounts, no servers, no analytics.
+A tip-out calculator for service workers. Tip Breakdown runs entirely on
+your device — no accounts, no servers, no analytics.
 
 - [Privacy policy](privacy)
 - [Support](support)

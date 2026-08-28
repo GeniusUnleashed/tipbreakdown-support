@@ -1,7 +1,7 @@
-# Tip Out — Support
+# Tip Breakdown — Support
 
-Tip Out is a tip-out calculator for service workers. It runs entirely on your
-device — no accounts, no servers, no analytics.
+Tip Breakdown is a tip-out calculator for service workers. It runs
+entirely on your device — no accounts, no servers, no analytics.
 
 **Contact:** geniusunleashed@mail.aird2.com
 

@@ -1,15 +1,15 @@
-# Privacy Policy — Tip Out
+# Privacy Policy — Tip Breakdown
 
 **Last updated: 27 August 2026**
 
-Tip Out is a tip-out calculator for service workers, published by Michael
-Sullivan.
+Tip Breakdown is a tip-out calculator for service workers, published by
+Michael Sullivan.
 
 ## The short version
 
-Tip Out does not collect, transmit, or sell any of your data. Everything
-you enter stays on your device. The app has no servers, no accounts, no
-analytics, and no advertising.
+Tip Breakdown does not collect, transmit, or sell any of your data.
+Everything you enter stays on your device. The app has no servers, no
+accounts, no analytics, and no advertising.
 
 ## What the app stores
 
@@ -46,8 +46,8 @@ picker. The app reads only the file you select.
 
 ## Children
 
-Tip Out is a workplace tool intended for adults. It does not knowingly
-collect any information from anyone, including children.
+Tip Breakdown is a workplace tool intended for adults. It does not
+knowingly collect any information from anyone, including children.
 
 ## Changes
 

@@ -1,6 +1,6 @@
 # Privacy Policy — Tip Breakdown
 
-**Last updated: 27 August 2026**
+**Last updated: 10 September 2026**
 
 Tip Breakdown is a tip-out calculator for service workers, published by
 Michael Sullivan.
@@ -19,8 +19,11 @@ private storage:
 - **Your name and text size preference**, so the app remembers them
   between launches.
 - **Your roster** — the names and roles of the people you work with.
+- **Your locations** — the names of the places you work, if you add any,
+  so you can pick one when entering a shift.
 - **Your tip log** — a CSV file of the shifts you have chosen to save,
-  including the date, tip amounts, net sales, and each person's payout.
+  including the date, location, tip amounts, net sales, and each
+  person's payout.
 
 None of this is sent anywhere. Deleting the app removes all of it.
 
@@ -35,8 +38,9 @@ None of this is sent anywhere. Deleting the app removes all of it.
 
 ## Sharing a shift
 
-When you tap **Share**, the app hands a summary and a CSV file to your
-device's standard share sheet. You choose what happens next — Messages,
+When you tap **Share Breakdown** or **Send CSV File**, the app hands a
+text summary or a CSV file, respectively, to your device's standard share
+sheet. You choose what happens next — Messages,
 AirDrop, email, saving to Files, or cancelling. Nothing is shared unless
 you pick a destination yourself, and the app has no visibility into what
 you choose.
